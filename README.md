@@ -17,3 +17,5 @@ My hope is that this code could be used to:
 3. Last but not least, demonstrate the wide variety of applications Mathematics has beyond Biology and Physics.
 
 I also would be intrigued to see if anyone would extend this analysis to the multivariate Oregonator model which features a Laplacian term in both differential equations and switches to plane polar coordinates. 
+
+The core reference for this is Scott's Oscillations, Waves and Chaos in Chemical Kinetics
