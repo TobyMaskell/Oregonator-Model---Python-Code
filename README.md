@@ -18,4 +18,4 @@ My hope is that this code could be used to:
 
 I also would be intrigued to see if anyone would extend this analysis to the multivariate Oregonator model which features a Laplacian term in both differential equations and switches to plane polar coordinates. 
 
-The core reference for this is Scott's Oscillations, Waves and Chaos in Chemical Kinetics
+The core reference for this is Scott's Oscillations, Waves and Chaos in Chemical Kinetics (1994). 
